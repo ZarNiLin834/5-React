@@ -1,0 +1,142 @@
+{
+ "products" : [
+    
+        {
+            "id": 1,
+            "product_name": "Website Design Package",
+            "price": 100,
+            "created_at": "2022-01-01T00:00:00.000Z"
+        },
+        {
+            "id": 2,
+            "product_name": "E-commerce Development",
+            "price": 500,
+            "created_at": "2022-03-15T14:30:00.000Z"
+        },
+        {
+            "id": 3,
+            "product_name": "SEO Optimization",
+            "price": 200,
+            "created_at": "2022-06-10T09:45:00.000Z"
+        },
+        {
+            "id": 4,
+            "product_name": "Custom Web App Development",
+            "price": 1000,
+            "created_at": "2022-09-25T11:00:00.000Z"
+        },
+        {
+            "id": 5,
+            "product_name": "Web Hosting Services",
+            "price": 150,
+            "created_at": "2022-11-05T08:15:00.000Z"
+        },
+        {
+            "id": 6,
+            "product_name": "UI/UX Design Consultation",
+            "price": 300,
+            "created_at": "2023-01-20T10:30:00.000Z"
+        },
+        {
+            "id": 7,
+            "product_name": "WordPress Setup and Customization",
+            "price": 250,
+            "created_at": "2023-03-10T15:20:00.000Z"
+        },
+        {
+            "id": 8,
+            "product_name": "API Integration Service",
+            "price": 400,
+            "created_at": "2023-05-25T16:45:00.000Z"
+        },
+        {
+            "id": 9,
+            "product_name": "Website Security Audit",
+            "price": 350,
+            "created_at": "2023-07-18T12:00:00.000Z"
+        },
+        {
+            "id": 10,
+            "product_name": "Content Management System (CMS) Setup",
+            "price": 600,
+            "created_at": "2023-09-05T09:00:00.000Z"
+        }
+    ],   
+    "vouchers": [
+        {
+          "voucher_id": "INV-20241031-9680",
+          "customer_name": "Su Su",
+          "customer_email": "susu@gamil.com",
+          "sale_date": "2024-10-31",
+          "all_correct": true,
+          "records": [
+            {
+              "id": 1730387870052,
+              "product_name": "SEO Optimization",
+              "product_id": 3,
+              "price": 200,
+              "quantity": 3,
+              "create_at": "2024-10-31T15:17:50.052Z"
+            },
+            {
+              "id": 1730387881115,
+              "product_name": "Custom Web App Development",
+              "product_id": 4,
+              "price": 1000,
+              "quantity": 2,
+              "create_at": "2024-10-31T15:18:01.115Z"
+            },
+            {
+              "id": 1730387885404,
+              "product_name": "WordPress Setup and Customization",
+              "product_id": 7,
+              "price": 250,
+              "quantity": 5,
+              "create_at": "2024-10-31T15:18:05.404Z"
+            }
+          ],
+          "total": 3850,
+          "tax": 192.5,
+          "netTotal": 4042.5,
+          "id": 2
+        },
+        {
+          "voucher_id": "INV-20241031-4504",
+          "customer_name": "Khin",
+          "customer_email": "khin@gamil.com",
+          "sale_date": "2024-10-31",
+          "all_correct": true,
+          "records": [
+            {
+              "id": 1730388032899,
+              "product_name": "E-commerce Development",
+              "product_id": 2,
+              "price": 500,
+              "quantity": 3,
+              "create_at": "2024-10-31T15:20:32.899Z"
+            },
+            {
+              "id": 1730388039651,
+              "product_name": "Custom Web App Development",
+              "product_id": 4,
+              "price": 1000,
+              "quantity": 5,
+              "create_at": "2024-10-31T15:20:39.651Z"
+            },
+            {
+              "id": 1730388044916,
+              "product_name": "Website Security Audit",
+              "product_id": 9,
+              "price": 350,
+              "quantity": 2,
+              "create_at": "2024-10-31T15:20:44.916Z"
+            }
+          ],
+          "total": 7200,
+          "tax": 360,
+          "netTotal": 7560,
+          "id": 3
+        }
+      ]
+     
+}

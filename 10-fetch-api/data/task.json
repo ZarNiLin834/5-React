@@ -1,0 +1,28 @@
+{
+    "tasks" :[
+        {
+            "id": 1,
+            "title": "Complete homework",
+            "status": "pending",
+            "dueDate": "2024-08-30"
+        },
+        {
+            "id": 2,
+            "title": "Buy groceries",
+            "status": "completed",
+            "dueDate": "2024-08-23"
+        },
+        {
+            "id": 3,
+            "title": "Attend meeting",
+            "status": "completed",
+            "dueDate": "2024-08-25"
+        },
+        {
+            "id": 4,
+            "title": "Submit project",
+            "status": "pending",
+            "dueDate": "2024-09-01"
+        }
+    ]
+}
